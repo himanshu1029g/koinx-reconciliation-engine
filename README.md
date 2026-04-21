@@ -1,6 +1,6 @@
 # KoinX Transaction Reconciliation Engine
 
-A production-grade **Transaction Reconciliation Engine** built with Node.js, Express, and MongoDB. It ingests user and exchange transaction CSV files, performs intelligent matching with configurable tolerances, and generates detailed reconciliation reports.
+A **Transaction Reconciliation Engine** built with Node.js, Express, and MongoDB. It ingests user and exchange transaction CSV files, performs intelligent matching with configurable tolerances, and generates detailed reconciliation reports.
 
 ---
 
